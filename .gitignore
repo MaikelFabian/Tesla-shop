@@ -3,6 +3,9 @@
 /node_modules
 /build
 
+# Ignorar carpeta de postgres
+postgres/
+
 # Logs
 logs
 *.log
